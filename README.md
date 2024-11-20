@@ -1,1 +1,1 @@
-# voice-recorder-python
+# os assistant
